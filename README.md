@@ -49,6 +49,18 @@ Databases
 
 ---
 
+GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-india&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Balaji-india&theme=tokyonight" />
+</p>
+
+---
+
 Projects
 
 AI Tutor (Membrain)  
@@ -110,6 +122,26 @@ Goals
 - Scalable backend development  
 - Real-world project building  
 - Software engineering roles  
+
+---
+
+Project Tech Overview
+
+AI Tutor (Membrain)  
+![Python](https://img.shields.io/badge/Python-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-green)
+![Membrain](https://img.shields.io/badge/Membrain-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+
+Campus Flow  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+
+Cave In Detection  
+![Sensors](https://img.shields.io/badge/Sensors-grey)
+![Detection](https://img.shields.io/badge/Detection-red)
+![Monitoring](https://img.shields.io/badge/Monitoring-blue)
 
 ---
 
