@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Balaji+Keerthi;AIML+Student;Building+Strong+CS+Foundations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Balaji+Keerthi;Learning+Systems+%7C+DSA+%7C+Backend+Development" />
 </p>
 
 ---
@@ -52,19 +52,43 @@ Databases
 Projects
 
 Campus Flow  
-A full-stack system for managing campus workflows  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+A full-stack system designed to manage and streamline campus workflows.  
+Focused on backend structure, data handling, and scalable design.
+
+Key Work  
+- Built backend logic and API structure  
+- Designed data flow between components  
+- Focused on modular and scalable architecture  
+
+---
 
 Cave In Detection  
-A system focused on safety monitoring and detection  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+A safety-focused system aimed at detecting hazardous conditions.  
+Built with focus on reliability and real-world applicability.
+
+Key Work  
+- Implemented detection logic using sensor data  
+- Designed system for continuous monitoring  
+- Focused on accuracy and responsiveness  
+
+---
 
 DSA Practice  
-Consistent problem solving with focus on core patterns and optimization techniques  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+Consistent problem solving to strengthen core algorithmic thinking.
+
+Focus Areas  
+- Hashing and prefix sums  
+- Sliding window techniques  
+- Time and space optimization  
 
 ---
 
 Currently Working On
 
-- Practicing DSA  
+- Practicing DSA regularly  
 - Learning MERN stack  
 - Building backend systems  
 - Exploring machine learning  
