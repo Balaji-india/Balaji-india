@@ -51,38 +51,47 @@ Databases
 
 Projects
 
+AI Tutor (Membrain)  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+An intelligent backend system that structures knowledge as a connected memory graph, enabling contextual learning and smarter exploration.
+
+Key Features  
+• Semantic search for concept-based retrieval  
+• Adaptive recommendations based on learning patterns  
+• Scalable FastAPI backend with modular design  
+
+---
+
 Campus Flow  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-A full-stack system designed to manage and streamline campus workflows.  
-Focused on backend structure, data handling, and scalable design.
+A full-stack system built to streamline campus workflows by managing tasks, users, and data flow efficiently across modules.
 
-Key Work  
-- Built backend logic and API structure  
-- Designed data flow between components  
-- Focused on modular and scalable architecture  
+Key Features  
+• Designed backend APIs for structured data handling  
+• Managed workflow logic across multiple components  
+• Modular and scalable architecture  
 
 ---
 
 Cave In Detection  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-A safety-focused system aimed at detecting hazardous conditions.  
-Built with focus on reliability and real-world applicability.
+A safety-focused system designed to detect hazardous conditions using real-time monitoring.
 
-Key Work  
-- Implemented detection logic using sensor data  
-- Designed system for continuous monitoring  
-- Focused on accuracy and responsiveness  
+Key Features  
+• Detection logic using sensor inputs  
+• Continuous monitoring system  
+• Optimized for accuracy and responsiveness  
 
 ---
 
 DSA Practice  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-Consistent problem solving to strengthen core algorithmic thinking.
+Consistent problem solving to build strong algorithmic thinking.
 
 Focus Areas  
-- Hashing and prefix sums  
-- Sliding window techniques  
-- Time and space optimization  
+• Hashing and prefix sums  
+• Sliding window techniques  
+• Time and space optimization  
 
 ---
 
