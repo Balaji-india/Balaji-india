@@ -10,7 +10,7 @@ I focus on understanding how systems work beneath the surface, not just using th
 
 ## About
 
-I am currently in my 2nd year (4th semester) of AIML.
+I am currently in my 3rd year (5th semester) of AIML.
 My goal is to build strong fundamentals in computer science while exploring machine learning and backend systems.
 
 I enjoy breaking down systems and understanding how data, memory, and execution interact — and I try to build projects that are honest about what they actually do, rather than just looking good on paper.
